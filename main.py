@@ -1,6 +1,6 @@
 
 def count_batteries_by_usage(cycles):
-  c=int(input())
+  c=input()
   return {
     "lowCount": 0,
     "mediumCount": 0,
